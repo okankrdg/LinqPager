@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7BC3ED28-A9B
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{9F54726F-1119-4E5B-BAF0-E4F02822A1FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqPager.Project", "LinqPager.Project\LinqPager.Project.csproj", "{A4E8E2F2-251E-4064-A45A-8A2072F901DF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqPager", "LinqPager.Project\LinqPager.csproj", "{A4E8E2F2-251E-4064-A45A-8A2072F901DF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqPager.Test", "LinqPager.Test\LinqPager.Test.csproj", "{D36F0C9D-56E6-427A-9FE4-3B0A31EA6482}"
 EndProject

@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\LinqPager.Project\LinqPager.Project.csproj" />
+    <ProjectReference Include="..\LinqPager.Project\LinqPager.csproj" />
   </ItemGroup>
 
 </Project>
