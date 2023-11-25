@@ -33,6 +33,14 @@ var query = yourQueryableData.ToPagination(pageNumber, pageSize, "FieldName", "a
 // Example usage with IEnumerable<T>
 var collection = yourEnumerableData.ToPagination(pageNumber, pageSize, "FieldName", "desc");
 ```
+---
+**Important Note**
+
+Regarding the ToPagination method:
+- Setting the `page` parameter to 0 or 1 will return the first page of results.
+- Providing a number less than 0 will result in an error.
+---
+
 ### Using IPagination Interface
 
 To simplify pagination with request models, you can implement the `IPagination` interface. Here is an example of how to use it:
