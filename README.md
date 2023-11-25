@@ -17,7 +17,7 @@ To use LinqPager in your project, you can install it via NuGet Package Manager:
 
 `dotnet add package LinqPager`
 
-[![NuGet](https://img.shields.io/nuget/v/LinqPager)](https://www.nuget.org/packages/LinqPager/)
+[![NuGet](https://img.shields.io/nuget/v/LinqPager)](https://www.nuget.org/packages/LinqPager)
 
 ### Getting Started
 
